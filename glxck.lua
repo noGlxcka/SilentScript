@@ -47,7 +47,7 @@ getgenv().Settings = {
 	       ["Horizontal"] = 0.185,
 	       ["Vertical"] = 0.1,
 	    },
-	    ["Smoothness"] = 1,
+	    ["Smoothness"] = 0.8,
 	    ["AutoPrediction"] = {
 	        ["Enabled"] = true,
 	        ["Type"] = "Normal", --//Normal, Custom
