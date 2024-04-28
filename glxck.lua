@@ -47,7 +47,7 @@ getgenv().Settings = {
 	       ["Horizontal"] = 0.185,
 	       ["Vertical"] = 0.1,
 	    },
-	    ["Smoothness"] = 0.1,
+	    ["Smoothness"] = 1,
 	    ["AutoPrediction"] = {
 	        ["Enabled"] = true,
 	        ["Type"] = "Normal", --//Normal, Custom
@@ -78,7 +78,7 @@ getgenv().Settings = {
 	},
 	["Misc"] = {
 	    ["NoDelay"] = true,
-	    ["AutoReload"] = false,
+	    ["AutoReload"] = true,
 	    ["AutoAir"] = {
 	        ["Enabled"] = true,
 	        ["Interval"] = 0.5,
